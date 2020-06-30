@@ -1,13 +1,7 @@
-from setuptools import setup
+import setuptools
 
-setup(
+setuptools.setup(
     name='django-site-id-middleware',
-    version='2020.3.31',
-    install_requires=[
-        'Django',
-        'setuptools',
-    ],
-    packages=[
-        'django_site_id_middleware',
-    ],
+    install_requires=open('requirements.txt').read().splitlines(),
+    packages=setuptools.find_packages()
 )

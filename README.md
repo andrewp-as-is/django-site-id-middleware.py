@@ -1,15 +1,13 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
-https://pypi.org/project/django-readme-generator/
+https://readme42.com
 -->
 
-[![](https://img.shields.io/pypi/pyversions/django-site-id-middleware.svg?longCache=True)](https://pypi.org/project/django-site-id-middleware/)
+
 [![](https://img.shields.io/pypi/v/django-site-id-middleware.svg?maxAge=3600)](https://pypi.org/project/django-site-id-middleware/)
 [![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
-[![Travis](https://api.travis-ci.org/andrewp-as-is/django-site-id-middleware.py.svg?branch=master)](https://travis-ci.org/andrewp-as-is/django-site-id-middleware.py/)
+[![](https://github.com/andrewp-as-is/django-site-id-middleware.py/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/django-site-id-middleware.py/actions)
 
-#### Installation
+### Installation
 ```bash
 $ [sudo] pip install django-site-id-middleware
 ```
@@ -29,5 +27,5 @@ MIDDLEWARE = [
 ```
 
 <p align="center">
-    <a href="https://pypi.org/project/django-readme-generator/">django-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>
